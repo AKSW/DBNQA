@@ -34,6 +34,6 @@ This paper gives an evaluation on DBNQA and other existing datasets for QA using
 
 ## Contact
 
-* Primary contacts: [Tommaso Soru](http://tommaso-soru.it) and [Edgard Marx](http://emarx.org).
+* Primary contacts: [Edgard Marx](http://emarx.org) and [Tommaso Soru](http://tommaso-soru.it).
 * Neural SPARQL Machines [mailing list](https://groups.google.com/forum/#!forum/neural-sparql-machines).
 * Follow the [project on ResearchGate](https://www.researchgate.net/project/Neural-SPARQL-Machines).

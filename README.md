@@ -1,7 +1,5 @@
 # DBNQA
-DBpedia Neural Question Answering Dataset
-
-This is the repository for the DBpedia Neural Question Answering (DBNQA) Dataset.
+The DBpedia Neural Question Answering (DBNQA) dataset
 
 ## Papers
 

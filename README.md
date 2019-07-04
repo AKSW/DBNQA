@@ -3,34 +3,11 @@ DBpedia Neural Question Answering Dataset
 
 This is the repository for the DBpedia Neural Question Answering (DBNQA) Dataset.
 
-
-If you are looking to understand or use our work, please refer to:
-
-
-If you are looking for how this dataset compare with existing ones, refer to:
-
 ## Papers
-
-### Hartman, Marx and Soru et al., 2017
-
-This paper explain on how the dataset was made.
-
-* Permanent URI: http://w3id.org/neural-sparql-machines/soru-marx-semantics2017.html
-* arXiv: https://arxiv.org/abs/1708.07624
-
-```
-@inproceedings{soru-marx-2017,
-    author = "Tommaso Soru and Edgard Marx and Diego Moussallem and Gustavo Publio and Andr\'e Valdestilhas and Diego Esteves and Ciro Baron Neto",
-    title = "{SPARQL} as a Foreign Language",
-    year = "2017",
-    journal = "13th International Conference on Semantic Systems (SEMANTiCS 2017) - Posters and Demos",
-    url = "http://w3id.org/neural-sparql-machines/soru-marx-semantics2017.html",
-}
-```
 
 ### Hartman, Marx, and Soru et al., 2018
 
-This paper gives an evaluation on DBNQA with existing datasets.
+This paper explain on how the dataset was made.
 
 ```
 @inproceedings{hartmann-marx-soru-2018,
@@ -43,6 +20,8 @@ This paper gives an evaluation on DBNQA with existing datasets.
 ```
 
 ### Yin et al., 2019
+
+This paper gives an evaluation on DBNQA and other existing datasets for QA using Neural Machine Translation (NMT) approaches.
 
 * arXiv: https://arxiv.org/abs/1906.09302
 

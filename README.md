@@ -7,7 +7,7 @@ This is the repository for the DBpedia Neural Question Answering (DBNQA) Dataset
 
 ### Hartman, Marx, and Soru et al., 2018
 
-This paper explain on how the dataset was made.
+This paper explains how the dataset was made.
 
 ```
 @inproceedings{hartmann-marx-soru-2018,

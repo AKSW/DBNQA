@@ -1,6 +1,14 @@
 # DBNQA
 The DBpedia Neural Question Answering (DBNQA) dataset
 
+
+"DBpedia Neural Question Answering (DBNQA) [Hartmann et al.] is the largest DBpedia-targeting dataset we have found so far and a superset of the Monument dataset. It is also
+based on English and SPARQL pairs and contains 894,499 instances in total. In terms
+of vocabulary, it has about 131,000 words for English and 244,900 tokens for SPARQL
+without any reduction. DBNQA provides a remedy for some drawbacks of the previous two datasets. A large number of generic templates are extracted from the concrete
+examples of two existing datasets LC-QUAD and QALD-7-Train [18] by replacing the
+entities with placeholders. These templates can subsequently be used in the same approach as the one in the Monument dataset to generate a large dataset." Yin et al., 2019
+
 ## Papers
 
 ### Hartman, Marx, and Soru et al., 2018

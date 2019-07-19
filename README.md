@@ -18,8 +18,8 @@ This paper explains how the dataset was made.
 ```
 @article{hartmann-marx-soru-2018,
   author = {Hartmann, Ann-Kathrin and Marx, Edgard and Soru, Tommaso},
-  abstract = {The role of Question Answering is central to the fulfillmentof the Semantic Web. Recently, several approaches relying on artificial neural networks have been proposed to tackle the problem of question answering over knowledge graphs. Such techniques are however known to be data-hungry and the creation of training sets requires a substantial manual effort. We thus introduce DBNQA, a comprehensive dataset of 894,499 pairs of questions and SPARQL queries based on templates which are specifically designed on the DBpedia knowledge base. We show howthe method used to generate our dataset can be easily reused for other purposes. We report the successful adoption of DBNQA in an experimental phase  and  present  how  it  compares  with  existing  question-answering corpora.}
-  booktitle = {WEBBR 2018 Presentations and Talks},
+  abstract = {The role of Question Answering is central to the fulfillmentof the Semantic Web. Recently, several approaches relying on artificial neural networks have been proposed to tackle the problem of question answering over knowledge graphs. Such techniques are however known to be data-hungry and the creation of training sets requires a substantial manual effort. We thus introduce DBNQA, a comprehensive dataset of 894,499 pairs of questions and SPARQL queries based on templates which are specifically designed on the DBpedia knowledge base. We show howthe method used to generate our dataset can be easily reused for other purposes. We report the successful adoption of DBNQA in an experimental phase  and  present  how  it  compares  with  existing  question-answering corpora.},
+  booktitle = {Workshop on Linked Data Management, WEBBR},
   title = {Generating a Large Dataset for Neural Question Answering over the {DB}pedia Knowledge Base},
   url = {https://www.researchgate.net/publication/324482598_Generating_a_Large_Dataset_for_Neural_Question_Answering_over_the_DBpedia_Knowledge_Base},
   year = 2018

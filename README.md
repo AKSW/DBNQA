@@ -16,9 +16,10 @@ entities with placeholders. These templates can subsequently be used in the same
 This paper explains how the dataset was made.
 
 ```
-@inproceedings{hartmann-marx-soru-2018,
+@article{hartmann-marx-soru-2018,
   author = {Hartmann, Ann-Kathrin and Marx, Edgard and Soru, Tommaso},
-  booktitle = {CoRR},
+  abstract = {The role of Question Answering is central to the fulfillmentof the Semantic Web. Recently, several approaches relying on artificialneural networks have been proposed to tackle the problem of questionanswering over knowledge graphs. Such techniques are however known tobe data-hungry and the creation of training sets requires a substantialmanual effort. We thus introduceDbnqa, a comprehensive dataset of 894,499 pairs of questions and SPARQL queries based on templates whichare specifically designed on the DBpedia knowledge base. We show howthe method used to generate our dataset can be easily reused for otherpurposes. We report the successful adoption ofDbnqain an experimentalphase  and  present  how  it  compares  with  existing  question-answeringcorpora.}
+  booktitle = {WEBBR 2018 Presentations and Talks},
   title = {Generating a Large Dataset for Neural Question Answering over the {DB}pedia Knowledge Base},
   url = {https://www.researchgate.net/publication/324482598_Generating_a_Large_Dataset_for_Neural_Question_Answering_over_the_DBpedia_Knowledge_Base},
   year = 2018

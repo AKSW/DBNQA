@@ -13,7 +13,7 @@ entities with placeholders. These templates can subsequently be used in the same
 
 An evaluation of different datasets with different translation models provided by Yin et al.
 
-[alt evaluation](https://github.com/AKSW/DBNQA/blob/master/evaluation.png)
+![alt evaluation](https://github.com/AKSW/DBNQA/blob/master/evaluation.png)
 
 ## Papers
 

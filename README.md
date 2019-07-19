@@ -9,6 +9,12 @@ without any reduction. DBNQA provides a remedy for some drawbacks of the previou
 examples of two existing datasets LC-QUAD and QALD-7-Train [18] by replacing the
 entities with placeholders. These templates can subsequently be used in the same approach as the one in the Monument dataset to generate a large dataset." Yin et al., 2019
 
+## Evaluation
+
+An evaluation of different datasets with different translation models provided by Yin et al.
+
+[[https://github.com/AKSW/DBNQA/blob/master/evaluation.png|alt=evaluation]]
+
 ## Papers
 
 ### Hartman, Marx, and Soru et al., 2018
